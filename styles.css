@@ -1,5 +1,7 @@
 body {
+    margin: 0;
     font-family: sans-serif;
+    background-color: rgb(241, 233, 243);
 }
 #listData {
     display: flex;
@@ -30,13 +32,25 @@ body {
 .card-excerpt {
     margin: 15px;
 }
+.searchContainer {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
 #searchInput {
     height: 50px;
     border-radius: 5px;
     font-size: 1.3rem;
+    margin-left: 50px;
 }
 #header {
+    box-shadow: -100px 5px 20px rgba(242, 218, 195, 0.952); /*4*/
+    color: rgb(243, 233, 233);
+    background-color: rgb(72, 68, 68);
     display: flex;
-    justify-content: center;
-    height: 150px;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100px;
+    font-size: 2rem;
+    margin-bottom: 40px;
 }
