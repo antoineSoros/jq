@@ -1,0 +1,66 @@
+const dataList = [
+    {
+        date: '20 Janvier 2021',
+        desc: ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam voluptatibus autem consectetur voluptate facere at, omnis ab optio placeat officiis! Animi modi harum enim quia veniam consectetur unde autem inventore.',
+        title: 'sample text 1',
+        href: '/',
+        imageUrl: 'https://picsum.photos/400/200',
+    },
+    {
+        date: '20 Janvier 2021',
+        desc: ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam voluptatibus autem consectetur voluptate facere at, omnis ab optio placeat officiis! Animi modi harum enim quia veniam consectetur unde autem inventore.',
+        title: 'sample title 2',
+        href: '/',
+        imageUrl: 'https://picsum.photos/400/200',
+    },
+    {
+        date: '20 Janvier 2021',
+        desc: ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam voluptatibus autem consectetur voluptate facere at, omnis ab optio placeat officiis! Animi modi harum enim quia veniam consectetur unde autem inventore.',
+        title: 'sample title 3',
+        href: '/',
+        imageUrl: 'https://picsum.photos/400/200',
+    },
+    {
+        date: '20 Janvier 2021',
+        desc: ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam voluptatibus autem consectetur voluptate facere at, omnis ab optio placeat officiis! Animi modi harum enim quia veniam consectetur unde autem inventore.',
+        title: 'samplé title 4',
+        href: '/',
+        imageUrl: 'https://picsum.photos/400/200',
+    },
+    {
+        date: '20 Janvier 2021',
+        desc: ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam voluptatibus autem consectetur voluptate facere at, omnis ab optio placeat officiis! Animi modi harum enim quia veniam consectetur unde autem inventore.',
+        title: 'samplé title 4',
+        href: '/',
+        imageUrl: 'https://picsum.photos/400/200',
+    },
+    {
+        date: '20 Janvier 2021',
+        desc: ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam voluptatibus autem consectetur voluptate facere at, omnis ab optio placeat officiis! Animi modi harum enim quia veniam consectetur unde autem inventore.',
+        title: 'samplé title 4',
+        href: '/',
+        imageUrl: 'https://picsum.photos/400/200',
+    },
+    {
+        date: '20 Janvier 2021',
+        desc: ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam voluptatibus autem consectetur voluptate facere at, omnis ab optio placeat officiis! Animi modi harum enim quia veniam consectetur unde autem inventore.',
+        title: 'samplé title 4',
+        href: '/details.html',
+        imageUrl: 'https://picsum.photos/400/200',
+    },
+    {
+        date: '20 Janvier 2021',
+        desc: ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam voluptatibus autem consectetur voluptate facere at, omnis ab optio placeat officiis! Animi modi harum enim quia veniam consectetur unde autem inventore.',
+        title: 'samplé title 4',
+        href: '/',
+        imageUrl: 'https://picsum.photos/400/200',
+    },
+    {
+        date: '20 Janvier 2021',
+        desc: ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam voluptatibus autem consectetur voluptate facere at, omnis ab optio placeat officiis! Animi modi harum enim quia veniam consectetur unde autem inventore.',
+        title: 'samplé title 4',
+        href: '/',
+        imageUrl: 'https://picsum.photos/400/200',
+    },
+];
+export default dataList;
