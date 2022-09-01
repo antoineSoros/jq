@@ -35,3 +35,8 @@ body {
     border-radius: 5px;
     font-size: 1.3rem;
 }
+#header {
+    display: flex;
+    justify-content: center;
+    height: 150px;
+}
